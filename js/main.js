@@ -1,0 +1,6 @@
+
+(function(){
+
+	// Main IIFE code
+
+})();
